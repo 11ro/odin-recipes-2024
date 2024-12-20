@@ -1,4 +1,8 @@
 body {
-    background-color: rgb(205, 241, 205);
+    background-color: rgb(94, 231, 190);
     font-family: Verdana, Tahoma, sans-serif;
+}
+
+.header {
+    background-color: rgb(167, 232, 238);
 }
